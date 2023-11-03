@@ -1,4 +1,6 @@
 distribution/
+AddDicomFileExtensionTool.app/
+AddDicomFileExtensionTool.dmg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
