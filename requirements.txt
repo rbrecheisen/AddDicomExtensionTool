@@ -1,0 +1,5 @@
+pydicom
+pylibjpeg[openjpeg] 
+pyside6
+nuitka
+pytest
